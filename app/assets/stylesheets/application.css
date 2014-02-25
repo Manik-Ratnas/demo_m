@@ -12,7 +12,7 @@
  *= require_tree .
  */
 body {
-background:url(download.jpeg) no-repeat center center fixed #97cae4;
+background:url(background.jpg) no-repeat center center fixed #97cae4;
 margin:5px;
 padding:5px;
 font-family:Arial, Helvetica, sans-serif;
